@@ -7,7 +7,7 @@ Este é um projeto de uma lista de tarefas desenvolvido para praticar conceitos 
 ## Tecnologias utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Funcionalidades
